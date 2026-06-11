@@ -1,6 +1,6 @@
 #elevate
 
-**Run elevated commands from a regular Windows Command Prompt (no need to Run As AdministratEver)**
+**Run elevated commands from a regular Windows Command Prompt (no need to Run As Administrator)**
 
 Ever wanted to quickly run a command that requires elevation without leaving your current Command Prompt window?  Jealous of your Linux friends who have sudo and su?  Well, this isn't anywhere near as good as either of those, but it's a step in the right direction!  Using one of the elevate batch commands will open a new *elevated* PowerShell window so you can quickly run a simple command or even a batch file or PowerShell (PS1) script.
 
